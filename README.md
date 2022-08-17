@@ -9,7 +9,9 @@ python -m venv env
 then activate the virtual evironment by first changing the directory then running ``` activate ``` command.
 this app is configured to waitress WSGI, this is a production WSGI server. This will run on 127.0.0.1:8080. People usually use some sort of reverse proxy in front of waitress.
 
-In order to run the app just type 
+now run ```pip install -r requirements.txt``` to install all the dependencies required to run the app.
+
+finally, just type the following and navigate to 127.0.0.1:8080 
 ```
 python app.py
 ```
