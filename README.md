@@ -15,3 +15,4 @@ finally, just type the following and navigate to 127.0.0.1:8080
 ```
 python app.py
 ```
+![alt text](https://github.com/dhruvarora561/qr-code-flask/blob/main/qrcode.jpg?raw=true)
